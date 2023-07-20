@@ -87,7 +87,7 @@ const List = ({ beneficiaries, regions, provinces, cities, ecoles }) => {
           <div className="datatables">
 
            
-           <DataTable
+          <DataTable
                 striped
                 className="whitespace-nowrap table-striped"
                 records={recordsData}
