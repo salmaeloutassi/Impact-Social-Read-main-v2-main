@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import DefaultLayout from '../../components/Layouts/DefaultLayout';
 import { DataTable } from 'mantine-datatable';
-import { Link} from '@inertiajs/inertia-react';
+import { Link } from '@inertiajs/inertia-react';
 import {  FiEye } from 'react-icons/fi';
 import { encodeID } from '../../keys/Index';
 
